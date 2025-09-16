@@ -5,3 +5,19 @@
 }
 
 /* rider color #b20838 */
+
+
+.logo {
+    height: 50%;
+    width: 50%;
+}
+
+.body {
+    background-color: white;
+}
+
+.nav {
+    background-color: #b2083894;
+    color: black;
+    font-weight: bold;
+}
