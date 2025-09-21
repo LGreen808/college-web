@@ -3,3 +3,12 @@
     color: black;
     font-weight: bold;
 }
+
+.card3 {
+    background-color: lightgray;
+}
+
+.card {
+    background-color: lightgray;
+    border-color: lightgray; 
+}
