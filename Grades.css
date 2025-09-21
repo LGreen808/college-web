@@ -13,16 +13,17 @@
 .smiley {
     height:50%;
     width: 50%;
-    display-flex;
+    float: right;
 
 }
 
 .worry {
     height:50%;
     width: 50%;
-    display-flex;
+    float: right;
 
 }
+
 
 
 
