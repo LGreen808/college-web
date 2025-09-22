@@ -13,17 +13,23 @@
 .smiley {
     height:50%;
     width: 50%;
+    float: right;
 
 }
 
 .worry {
     height:50%;
     width: 50%;
+    float: right;
 
 }
 
 .col-4 {
     width: 33.33%;
+}
+
+.heading2 {
+    float: right;
 }
 
 
