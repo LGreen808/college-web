@@ -4,6 +4,12 @@
     font-weight: bold;
 }
 
+.card2 {
+    background-color: lightgray;
+    border-color: black;
+    border-width: thick;
+}
+
 .card3 {
     background-color: lightgray;
 }
@@ -11,7 +17,7 @@
 .card {
     background-color: lightgray;
     border-color: black; 
-    border-style: solid;
+    border-width: thick;
 }
 
 .cardy1 {
@@ -30,4 +36,9 @@
 
 .cardy4 {
     float: right;
+}
+
+h3 {
+    font-weight: bold;
+    color: black;
 }
