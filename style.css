@@ -21,3 +21,8 @@
     color: black;
     font-weight: bold;
 }
+
+.card2 {
+    background-color: lightgray;
+    width: 100%;
+}
