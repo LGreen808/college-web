@@ -1,6 +1,5 @@
-body {
-    height: 100%;
-    margin: 0;
+.main {
+   background-color: #c5124594;
 }
 
 .nav {

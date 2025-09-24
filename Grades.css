@@ -10,6 +10,10 @@
     
 }
 
+h1 {
+    text-align: center;
+}
+
 .smiley {
     height:50%;
     width: 50%;
@@ -24,10 +28,24 @@
 
 }
 
+.card1 {
+  background-color: lightgray;
+}
 
+.card2 {
+  background-color: lightgray;
+  float: right;
+}
 
+.card3 {
+  background-color: lightgray;
+  float: right;
+}
 
-
+.card4 {
+  background-color: lightgray;
+  float: right;
+}
 
 
 
