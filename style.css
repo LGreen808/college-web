@@ -10,16 +10,19 @@
 .logo {
     height: 50%;
     width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .body {
-    background-color: white;
+    background-color: 
 }
 
 .nav {
     background-color: #b20838d0;
     color: black;
     font-weight: bold;
+    text-align: center; 
 }
 
 .card2 {
