@@ -1,7 +1,7 @@
 .card1 {
-    background-color: #d498a9;
-    border: solid  2px;
-    border-color: #d498a9;
+    background-color: #cb0a41
+    border-color: black;
+
 }
 
 /* rider color #b20838 */
@@ -14,15 +14,21 @@
     margin-right: auto;
 }
 
-.body {
-    background-color: 
+body {
+    background-color: #da6a8a94;
 }
 
 .nav {
     background-color: #b20838d0;
     color: black;
     font-weight: bold;
-    text-align: center; 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-item {
+    padding: 0 70px;
 }
 
 .card2 {
