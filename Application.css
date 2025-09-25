@@ -11,13 +11,30 @@ main {
 .card4 {
     background-color: lightgray;
     width: 100% !important;
-    margin: 0 !important;
     padding: 0 !important;
     z-index: 1;
+    float: right;
 }
 
 .card1 {
     background-color: lightgray;
     border-color: black;
     border-width: thick;
+}
+
+.card2 {
+    background-color: lightgray;
+}
+
+
+.logo1 {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.logo2 {
+    width: 200px;
+    height: 200px;
+    float: right; 
 }
