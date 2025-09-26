@@ -19,7 +19,8 @@ main {
 
 .card {
     background-color: lightgrey;
-    border-color: lightgrey; 
+    border-color: lightgrey;
+    
     
 }
 
@@ -31,6 +32,7 @@ h1 {
     height:200px;
     width: 200px;
     float: left;
+    padding-right: 2px;
     
 }
 
@@ -38,6 +40,7 @@ h1 {
     height:200px;
     width: 250px;
     float: right;
+    padding-left: 3px;
 
 }
 
