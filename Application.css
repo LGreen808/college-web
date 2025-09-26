@@ -24,9 +24,9 @@ main {
     float: right;
 }
 
-.card1 {
+.card12 {
     background-color: lightgray;
-    border-color: black;
+    border-color: black; 
     border-width: thick;
 }
 
