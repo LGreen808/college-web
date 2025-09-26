@@ -39,10 +39,12 @@ main {
     width: 200px;
     height: 200px;
     float: left;
+    background-color: lightgray;
 }
 
 .logo2 {
     width: 200px;
     height: 200px;
     float: right; 
+    background-color: lightgray;
 }
