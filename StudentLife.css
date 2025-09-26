@@ -14,3 +14,19 @@
 main {
    background-color: #da6a8a94;
 }
+
+.card {
+    background-color: lightgray;
+}
+
+.logo1 {
+   width: 200px;
+   height: 200px;
+   float: right;
+}
+
+.logo2 {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
