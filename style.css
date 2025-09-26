@@ -37,6 +37,7 @@ h1 {
 }
 
 .card1 {
-    border-color: black;
-    
+    background-color: lightgray;
+    border: 3px solid black;
+    border-width: thick;
 }

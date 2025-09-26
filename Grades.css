@@ -1,5 +1,6 @@
 main {
    background-color: #da6a8a94;
+  
 }
 
 .nav {
@@ -55,4 +56,8 @@ h1 {
 
 .card4 {
   background-color: lightgray;
+}
+
+.special {
+  color: blue;
 }
