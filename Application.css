@@ -24,14 +24,12 @@ main {
     float: right;
 }
 
-.card12 {
-    background-color: lightgray;
-    border-color: black; 
-    border-width: thick;
-}
+
 
 .card2 {
     background-color: lightgray;
+    border-color: black;
+    border-width: thick;
 }
 
 
@@ -47,4 +45,8 @@ main {
     height: 200px;
     float: right; 
     background-color: lightgray;
+}
+
+.special {
+    color: blue;
 }
