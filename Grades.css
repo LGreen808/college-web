@@ -28,34 +28,48 @@ h1 {
 }
 
 .smiley {
-    height:100px;
-    width: 150px;
-    float: right;
-
+    height:200px;
+    width: 200px;
+    float: left;
+    
 }
 
 .worry {
-    height:100px;
-    width: 150px;
-    float: left;
+    height:200px;
+    width: 250px;
+    float: right;
 
 }
 
 .card1 {
   background-color: lightgray;
   width: 100%;
+  border: 5px solid rgb(255, 98, 98);
 }
 
 .card2 {
   background-color: lightgray;
+  border: 5px solid rgb(255, 98, 98);
 }
 
 .card3 {
   background-color: lightgray;
+  border: 5px solid rgb(255, 98, 98);
 }
 
 .card4 {
   background-color: lightgray;
+    border: 5px solid rgb(255, 98, 98);
+}
+
+.card5 {
+  background-color: lightgray;
+  border: 3px solid black;
+}
+
+.card6 {
+  background-color: lightgray;
+  border: 3px solid black;
 }
 
 .special {

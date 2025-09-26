@@ -28,8 +28,7 @@ main {
 
 .card2 {
     background-color: lightgray;
-    border-color: black;
-    border-width: thick;
+    border: 3px solid black;
 }
 
 
@@ -53,7 +52,6 @@ main {
 
 .card3 {
     background-color: lightgray;
-    border-color: black;
-    border-style: 2px;
+   border: 3px solid black;
     
 }
