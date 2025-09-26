@@ -50,3 +50,10 @@ main {
 .special {
     color: blue;
 }
+
+.card3 {
+    background-color: lightgray;
+    border-color: black;
+    border-style: 2px;
+    
+}
