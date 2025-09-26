@@ -6,7 +6,15 @@ main {
     background-color: #b20838d0;
     color: black;
     font-weight: bold;
+        display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
+
+.nav-item {
+    padding: 0 70px;
+}
+
 
 .card4 {
     background-color: lightgray;

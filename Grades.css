@@ -6,7 +6,15 @@ main {
     background-color: #b20838d0;
     color: black;
     font-weight: bold;
+        display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
+
+.nav-item {
+    padding: 0 70px;
+}
+
 
 .card {
     background-color: lightgrey;
@@ -19,16 +27,16 @@ h1 {
 }
 
 .smiley {
-    height:50%;
-    width: 50%;
+    height:100px;
+    width: 150px;
     float: right;
 
 }
 
 .worry {
-    height:50%;
-    width: 50%;
-    float: right;
+    height:100px;
+    width: 150px;
+    float: left;
 
 }
 
