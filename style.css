@@ -41,3 +41,12 @@ h1 {
     border: 3px solid black;
     border-width: thick;
 }
+
+h4 {
+    color: black;
+}
+
+.money {
+    width: 3px;
+    height: 5px;
+}
