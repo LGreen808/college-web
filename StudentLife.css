@@ -15,10 +15,35 @@ main {
    background-color: #da6a8a94;
 }
 
+h3 {
+    color: black;
+}
+
 .card {
     background-color: lightgray;
     width: 100%;
 }
+
+.card1 {
+    background-color: lightgray;
+    border: 3px solid black;
+}
+
+.card2 {
+    background-color: lightgray;
+     border: 3px solid black; 
+}
+
+.card3 {
+     background-color: lightgray;
+     border: 3px solid black;
+}
+
+.card4 {
+    background-color: lightgray;
+    border: 3px solid black;
+}
+
 
 .logo1 {
    width: 200px;
@@ -30,4 +55,9 @@ main {
     width: 200px;
     height: 200px;
     float: left;
+}
+
+ul {
+    font-weight: bold;
+    color: black;
 }
