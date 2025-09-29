@@ -44,6 +44,27 @@ h3 {
     border: 3px solid black;
 }
 
+.card5 {
+    background-color: lightgray;
+    border: 3px solid black;
+    color: blue;
+   
+}
+
+.card6 {
+    background-color: lightgray;
+    border: 3px solid black;
+    color: blue;
+    float: right;
+}
+
+.card7 {
+   background-color: lightgray;
+    border: 3px solid black;
+    color: blue;
+    float: right;  
+}
+
 
 .logo1 {
    width: 200px;
