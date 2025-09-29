@@ -75,6 +75,11 @@ h1 {
   border: 5px solid black;
 }
 
-.special {
-  color: blue;
+h3 {
+  color: black;
+  font-weight: bold;
 }
+
+
+
+

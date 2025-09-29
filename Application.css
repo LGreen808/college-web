@@ -36,14 +36,14 @@ main {
     width: 200px;
     height: 200px;
     float: left;
-    background-color: lightgray;
+    background-color: transparent;
 }
 
 .logo2 {
     width: 200px;
     height: 200px;
     float: right; 
-    background-color: lightgray;
+    background-color: transparent;
 }
 
 .special {
@@ -58,5 +58,19 @@ main {
 
 .card4 {
     background-color: lightgray;
+    width: 100%;
+}
+
+.card5 {
+    background-color: lightgray;
     border: 3px solid black;
+}
+
+.card6 {
+    background-color: lightgray;
+    border: 3px solid black;
+}
+
+h4 {
+    color: black;
 }
